@@ -1,0 +1,2 @@
+#Valid types accepted for file-based credentials
+password="1234"

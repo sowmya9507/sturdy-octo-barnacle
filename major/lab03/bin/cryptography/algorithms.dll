@@ -1,0 +1,3 @@
+source_profile = bar-role1
+role_arn = arn:aws:iam::333333333333:role/Role2
+mfa_serial = arn:aws:iam::111111111111:mfa/jonsmith
